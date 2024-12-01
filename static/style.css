@@ -179,12 +179,4 @@ hr {
     color: white;
     text-decoration: none;
     font-size: 1em;
-    transition: all .3s ease;
-    border: 2px solid green;
-}
-
-.buy-button:hover{
-    color: green;
-    background-color: white;
-
 }
